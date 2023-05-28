@@ -7,7 +7,7 @@ This repository contains the Python script `imdb_ratings_csv_to_json.py`, design
 1. Download your IMDb ratings data in CSV format from the IMDb website.
 
    1. This can be achieved by navigating to imdb.com, logging in, and selecting "Your Ratings".
-   2. Within the "Your Ratings" page, select the menu button on the right. ![IMDB "Your Ratings" menu screenshot](https://github.com/fjbarrett/IMDbRatings2JSON/blob/main/account-ratings.png?raw=true){style="padding-top:10px"}
+   2. Within the "Your Ratings" page, select the menu button on the right. ![IMDB "Your Ratings" menu screenshot](https://github.com/fjbarrett/IMDbRatings2JSON/blob/main/account-ratings.png?raw=true) {padding:10px}
    3. Select export and download your ratings as a CSV file.
 
 2. Clone this repository to your local machine:

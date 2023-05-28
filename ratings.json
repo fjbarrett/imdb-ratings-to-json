@@ -1,0 +1,430 @@
+[
+    {
+        "title": "Slumdog Millionaire",
+        "rating": "9"
+    },
+    {
+        "title": "(500) Days of Summer",
+        "rating": "8"
+    },
+    {
+        "title": "Argo",
+        "rating": "7"
+    },
+    {
+        "title": "Point Break",
+        "rating": "6"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "rating": "8"
+    },
+    {
+        "title": "Silver Linings Playbook",
+        "rating": "8"
+    },
+    {
+        "title": "Up",
+        "rating": "9"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "rating": "9"
+    },
+    {
+        "title": "Schindler's List",
+        "rating": "8"
+    },
+    {
+        "title": "Forrest Gump",
+        "rating": "7"
+    },
+    {
+        "title": "Tron",
+        "rating": "3"
+    },
+    {
+        "title": "L\u00c3\u00a9on",
+        "rating": "8"
+    },
+    {
+        "title": "Pulp Fiction",
+        "rating": "8"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "rating": "9"
+    },
+    {
+        "title": "Speed",
+        "rating": "4"
+    },
+    {
+        "title": "Braveheart",
+        "rating": "8"
+    },
+    {
+        "title": "District 9",
+        "rating": "6"
+    },
+    {
+        "title": "Se7en",
+        "rating": "9"
+    },
+    {
+        "title": "Sense and Sensibility",
+        "rating": "7"
+    },
+    {
+        "title": "Twelve Monkeys",
+        "rating": "7"
+    },
+    {
+        "title": "The Usual Suspects",
+        "rating": "10"
+    },
+    {
+        "title": "Man on Wire",
+        "rating": "8"
+    },
+    {
+        "title": "Fargo",
+        "rating": "7"
+    },
+    {
+        "title": "Primal Fear",
+        "rating": "6"
+    },
+    {
+        "title": "The Big Lebowski",
+        "rating": "8"
+    },
+    {
+        "title": "Gattaca",
+        "rating": "7"
+    },
+    {
+        "title": "Good Will Hunting",
+        "rating": "9"
+    },
+    {
+        "title": "American History X",
+        "rating": "8"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "rating": "8"
+    },
+    {
+        "title": "Mission: Impossible - Ghost Protocol",
+        "rating": "7"
+    },
+    {
+        "title": "Your Highness",
+        "rating": "3"
+    },
+    {
+        "title": "Rounders",
+        "rating": "9"
+    },
+    {
+        "title": "The Social Network",
+        "rating": "10"
+    },
+    {
+        "title": "Blitz",
+        "rating": "6"
+    },
+    {
+        "title": "There Be Dragons",
+        "rating": "6"
+    },
+    {
+        "title": "Rise of the Planet of the Apes",
+        "rating": "8"
+    },
+    {
+        "title": "The Matrix",
+        "rating": "7"
+    },
+    {
+        "title": "Fight Club",
+        "rating": "8"
+    },
+    {
+        "title": "Inception",
+        "rating": "9"
+    },
+    {
+        "title": "American Psycho",
+        "rating": "6"
+    },
+    {
+        "title": "Prometheus",
+        "rating": "8"
+    },
+    {
+        "title": "The Help",
+        "rating": "8"
+    },
+    {
+        "title": "Bridesmaids",
+        "rating": "6"
+    },
+    {
+        "title": "The King's Speech",
+        "rating": "7"
+    },
+    {
+        "title": "Athena",
+        "rating": "8"
+    },
+    {
+        "title": "Crazy, Stupid, Love.",
+        "rating": "5"
+    },
+    {
+        "title": "Exit Through the Gift Shop",
+        "rating": "7"
+    },
+    {
+        "title": "Contagion",
+        "rating": "8"
+    },
+    {
+        "title": "Super 8",
+        "rating": "9"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": "8"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "rating": "8"
+    },
+    {
+        "title": "American Beauty",
+        "rating": "8"
+    },
+    {
+        "title": "Gladiator",
+        "rating": "7"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "rating": "8"
+    },
+    {
+        "title": "Aut\u00c3\u00b3mata",
+        "rating": "5"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "rating": "10"
+    },
+    {
+        "title": "Memento",
+        "rating": "10"
+    },
+    {
+        "title": "M - Eine Stadt sucht einen M\u00c3\u00b6rder",
+        "rating": "8"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "rating": "7"
+    },
+    {
+        "title": "Ocean's Eleven",
+        "rating": "9"
+    },
+    {
+        "title": "Donnie Darko",
+        "rating": "10"
+    },
+    {
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "rating": "8"
+    },
+    {
+        "title": "The Bourne Identity",
+        "rating": "8"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "rating": "9"
+    },
+    {
+        "title": "Before the Devil Knows You're Dead",
+        "rating": "8"
+    },
+    {
+        "title": "Cidade de Deus",
+        "rating": "8"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": "9"
+    },
+    {
+        "title": "Mystic River",
+        "rating": "7"
+    },
+    {
+        "title": "Man on Fire",
+        "rating": "8"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "rating": "8"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "rating": "9"
+    },
+    {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "rating": "6"
+    },
+    {
+        "title": "Batman Begins",
+        "rating": "10"
+    },
+    {
+        "title": "Crash",
+        "rating": "7"
+    },
+    {
+        "title": "Wedding Crashers",
+        "rating": "8"
+    },
+    {
+        "title": "Lord of War",
+        "rating": "7"
+    },
+    {
+        "title": "Sin City",
+        "rating": "8"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "rating": "7"
+    },
+    {
+        "title": "The Departed",
+        "rating": "9"
+    },
+    {
+        "title": "Cowboys & Aliens",
+        "rating": "5"
+    },
+    {
+        "title": "Blood Diamond",
+        "rating": "8"
+    },
+    {
+        "title": "The Pursuit of Happyness",
+        "rating": "8"
+    },
+    {
+        "title": "The Dark Knight",
+        "rating": "9"
+    },
+    {
+        "title": "Ex Machina",
+        "rating": "8"
+    },
+    {
+        "title": "United 93",
+        "rating": "9"
+    },
+    {
+        "title": "No Country for Old Men",
+        "rating": "9"
+    },
+    {
+        "title": "The Prestige",
+        "rating": "10"
+    },
+    {
+        "title": "Silence",
+        "rating": "6"
+    },
+    {
+        "title": "12 Angry Men",
+        "rating": "8"
+    },
+    {
+        "title": "The Hustler",
+        "rating": "8"
+    },
+    {
+        "title": "Upgrade",
+        "rating": "6"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "rating": "8"
+    },
+    {
+        "title": "The Godfather",
+        "rating": "8"
+    },
+    {
+        "title": "Badlands",
+        "rating": "7"
+    },
+    {
+        "title": "Taxi Driver",
+        "rating": "7"
+    },
+    {
+        "title": "Manhattan",
+        "rating": "7"
+    },
+    {
+        "title": "Interstellar",
+        "rating": "8"
+    },
+    {
+        "title": "World War Z",
+        "rating": "5"
+    },
+    {
+        "title": "Blade Runner",
+        "rating": "7"
+    },
+    {
+        "title": "Back to the Future",
+        "rating": "6"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "rating": "7"
+    },
+    {
+        "title": "Source Code",
+        "rating": "7"
+    },
+    {
+        "title": "Black Swan",
+        "rating": "7"
+    },
+    {
+        "title": "Rain Man",
+        "rating": "8"
+    },
+    {
+        "title": "The Fighter",
+        "rating": "8"
+    },
+    {
+        "title": "GoodFellas",
+        "rating": "9"
+    }
+]

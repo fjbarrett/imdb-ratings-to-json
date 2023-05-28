@@ -13,7 +13,7 @@ This repository contains the Python script `imdb_ratings_csv_to_json.py`, design
 2. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/fjbarrett/IMDbRatings2JSON.git
+   git clone https://github.com/fjbarrett/imdb-ratings-to-json
    ```
 
 3. Position your downloaded CSV file in the same directory as the script.

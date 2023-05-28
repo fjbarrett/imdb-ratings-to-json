@@ -7,13 +7,13 @@ This repository contains a Python script `imdb_ratings_csv_to_json.py` that conv
 1. Download your IMDb ratings data in CSV format from the IMDb website.
 
    1. You can do this by navigating to imdb.com, logging in, and going to "Your Ratings"
-   2. On this menu, click the menu button on the right. ![IMDB "Your Ratings" menu screenshot](https://github.com/fjbarrett/IMDbRatings2JSON/blob/main/account-ratings.png?raw=true)
+   2. On the "Your Ratings" page, click the menu button on the right. ![IMDB "Your Ratings" menu screenshot](https://github.com/fjbarrett/IMDbRatings2JSON/blob/main/account-ratings.png?raw=true)
    3. Now click export and download your ratings as a CSV
 
 2. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/IMDb-Ratings-Converter.git
+   git clone https://github.com/fjbarrett/IMDbRatings2JSON.git
    ```
 
 3. Place your downloaded CSV file in the same directory as the script.
@@ -28,12 +28,4 @@ python imdb_ratings_csv_to_json.py your_ratings.csv
 
 Replace your_ratings.csv with the filename of your IMDb ratings CSV file. The script will output a JSON file named imdb_ratings.json in the same directory.
 
-## License
-
-This project is licensed under the terms of the MIT license.
-
-Remember to replace "`yourusername`" with your actual GitHub username in the `git clone` command.
-
-```shell
-Please note that this is a simple README file. Depending on the complexity of your project and the needs of your users, you might want to provide more detailed instructions, add a section about how to contribute to your project, provide contact information, and so on.
-```
+This is handy if you want to copy and paste a large quantity of ratings into ChatGPT and have it recommend a film. Currently, copying the entire ratings.csv from imdb.com and pasting into chat.openai.com is not possible because it is too much text. The .json from this output however, is much thinner and allows for pasting into ChatGPT.

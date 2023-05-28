@@ -29,3 +29,11 @@ python imdb_ratings_csv_to_json.py your_ratings.csv
 Replace your_ratings.csv with the filename of your IMDb ratings CSV file. The script will output a JSON file named imdb_ratings.json in the same directory.
 
 This is handy if you want to copy and paste a large quantity of ratings into ChatGPT and have it recommend a film. Currently, copying the entire ratings.csv from imdb.com and pasting into chat.openai.com is not possible because it is too much text. The .json from this output however, is much thinner and allows for pasting into ChatGPT.
+
+## Quick tip for getting movie recommendations from ChatGPT
+
+When you paste your movie ratings into ChatGPT from the created movies.json file, explain to ChatGPT that you want a recommendation for a movie that is not already on the list. Otherwise it usually gives recommendations for movies you may have seen.
+
+## Future ideas
+
+Ideally, this python script would take the ratings.csv and use the OpenAI API to provide the recommendation and simply spit out a movie title into the command-line. Integrating the OpenAI API is the next step in making it easier to use ChatGPT to recommend films, which I've found it does fairly well.

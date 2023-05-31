@@ -30,8 +30,6 @@ Substitute `ratings.csv` with the filename of your IMDb ratings CSV file. The sc
 
 This procedure is advantageous when you wish to transfer a significant amount of ratings into ChatGPT and request a film recommendation. At present, directly copying the complete ratings.csv from imdb.com and pasting into chat.openai.com is not viable due to the large volume of text. However, the output .json from this script is significantly less bulky, allowing for easy pasting into ChatGPT.
 
-This is handy if you want to copy and paste a large quantity of ratings into ChatGPT and have it recommend a film. Currently, copying the entire ratings.csv from imdb.com and pasting into chat.openai.com is not possible because it is too much text. The .json from this output however, is much thinner and allows for pasting into ChatGPT.
-
 ## Quick Tip for Securing Movie Recommendations from ChatGPT
 
 When transferring your movie ratings into ChatGPT from the generated `movies.json` file, make it clear to ChatGPT that you are seeking a recommendation for a movie that is not already listed. Otherwise, it may suggest movies you have already watched.
